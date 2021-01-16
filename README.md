@@ -14,5 +14,5 @@ https://gitforwindows.org/
 `git push`
 
 ## 他者の変更内容をローカルに反映させる場合
-pullコマンドでリポジトリからローカルに反映させます。
+pullコマンドでリポジトリからローカルに反映させます。  
 `git pull`
