@@ -7,7 +7,7 @@ https://gitforwindows.org/
 1. cloneでリポジトリからソースコード一式を取得します。  
 `git clone [リポジトリのurl]`
 1. ソースコードを修正後に、addコマンドを実行します。  
-｀git add .｀
+`git add .`
 1. commitコマンドで変更を確定します。コメント文の部分に記述した内容が、コメント内容としてGithub上に記録されます。  
 `git commit -m "---コメント文---"`
 1. pushコマンドで変更をリポジトリに反映させます。  
