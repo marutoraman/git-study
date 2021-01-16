@@ -1,4 +1,6 @@
 # Gitの簡単な使い方の紹介
+Windowsの場合は、既定でgitがインストールされていないため、以下よりインストールしてください。  
+https://gitforwindows.org/
 
 ## Githubからcloneして開発し、変更をリポジトリにpushするまでの流れ
 1. Githubでリポジトリを新規作成し、URLを控えておきます。
